@@ -11,6 +11,9 @@
 npm-debug.log
 yarn-error.log
 
+#carpeta de entra de Módulo 1 y 2
+/Módulo1y2
+
 # IDEs and editors
 .idea/
 .project
